@@ -197,5 +197,5 @@ with st.sidebar:
     """)
     st.markdown("---")
     st.markdown("📅 *Demo Version 1.0*")
-    st.markdown("👨‍💻 Developed by: **Team FERN AI Lab**")
+    st.markdown("👨‍💻 Developed by: **Team Power Research Lab**")
 
